@@ -16,6 +16,25 @@ Windows Key Killer™ is designed for gaming, productivity workflows, kiosk syst
 * Standalone executable
 * No Python installation required
 
+## Screenshots
+
+### Windows Key Enabled
+
+![Enabled](screenshot_01_main_on.png)
+
+### Windows Key Disabled
+
+![Disabled](screenshot_02_main_off.png)
+
+### Menu
+
+![Menu](screenshot_03-menu.png)
+
+### System Tray
+
+![Tray](screenshot_04_tray.png)
+
+
 ## System Requirements
 
 * Windows 10
